@@ -1,0 +1,189 @@
+stat("/usr/local/lib/python3.12/os.py", {st_mode=S_IFREG|0644, st_size=40777, ...}) = 0
+stat("/usr/local/lib/python3.12/encodings/__init__.py", {st_mode=S_IFREG|0644, st_size=5884, ...}) = 0
+stat("/usr/local/lib/python3.12/encodings/__init__.py", {st_mode=S_IFREG|0644, st_size=5884, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/encodings/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/codecs.py", {st_mode=S_IFREG|0644, st_size=36870, ...}) = 0
+stat("/usr/local/lib/python3.12/codecs.py", {st_mode=S_IFREG|0644, st_size=36870, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/codecs.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/encodings/aliases.py", {st_mode=S_IFREG|0644, st_size=15677, ...}) = 0
+stat("/usr/local/lib/python3.12/encodings/aliases.py", {st_mode=S_IFREG|0644, st_size=15677, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/encodings/__pycache__/aliases.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/encodings/utf_8.py", {st_mode=S_IFREG|0644, st_size=1005, ...}) = 0
+stat("/usr/local/lib/python3.12/encodings/utf_8.py", {st_mode=S_IFREG|0644, st_size=1005, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/encodings/__pycache__/utf_8.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/io.py", {st_mode=S_IFREG|0644, st_size=3582, ...}) = 0
+stat("/usr/local/lib/python3.12/io.py", {st_mode=S_IFREG|0644, st_size=3582, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/io.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/abc.py", {st_mode=S_IFREG|0644, st_size=6538, ...}) = 0
+stat("/usr/local/lib/python3.12/abc.py", {st_mode=S_IFREG|0644, st_size=6538, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/abc.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site.py", {st_mode=S_IFREG|0644, st_size=23165, ...}) = 0
+stat("/usr/local/lib/python3.12/site.py", {st_mode=S_IFREG|0644, st_size=23165, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/site.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/os.py", {st_mode=S_IFREG|0644, st_size=40777, ...}) = 0
+stat("/usr/local/lib/python3.12/os.py", {st_mode=S_IFREG|0644, st_size=40777, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/os.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/stat.py", {st_mode=S_IFREG|0644, st_size=5485, ...}) = 0
+stat("/usr/local/lib/python3.12/stat.py", {st_mode=S_IFREG|0644, st_size=5485, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/stat.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/_collections_abc.py", {st_mode=S_IFREG|0644, st_size=32082, ...}) = 0
+stat("/usr/local/lib/python3.12/_collections_abc.py", {st_mode=S_IFREG|0644, st_size=32082, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/_collections_abc.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/posixpath.py", {st_mode=S_IFREG|0644, st_size=17297, ...}) = 0
+stat("/usr/local/lib/python3.12/posixpath.py", {st_mode=S_IFREG|0644, st_size=17297, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/posixpath.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/genericpath.py", {st_mode=S_IFREG|0644, st_size=5301, ...}) = 0
+stat("/usr/local/lib/python3.12/genericpath.py", {st_mode=S_IFREG|0644, st_size=5301, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/genericpath.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/_sitebuiltins.py", {st_mode=S_IFREG|0644, st_size=3128, ...}) = 0
+stat("/usr/local/lib/python3.12/_sitebuiltins.py", {st_mode=S_IFREG|0644, st_size=3128, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/_sitebuiltins.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/inspect.py", {st_mode=S_IFREG|0644, st_size=126836, ...}) = 0
+stat("/usr/local/lib/python3.12/inspect.py", {st_mode=S_IFREG|0644, st_size=126836, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/inspect.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/ast.py", {st_mode=S_IFREG|0644, st_size=64260, ...}) = 0
+stat("/usr/local/lib/python3.12/ast.py", {st_mode=S_IFREG|0644, st_size=64260, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/ast.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/re/__init__.py", {st_mode=S_IFREG|0644, st_size=16315, ...}) = 0
+stat("/usr/local/lib/python3.12/re/__init__.py", {st_mode=S_IFREG|0644, st_size=16315, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/re/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/enum.py", {st_mode=S_IFREG|0644, st_size=81636, ...}) = 0
+stat("/usr/local/lib/python3.12/enum.py", {st_mode=S_IFREG|0644, st_size=81636, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/enum.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/types.py", {st_mode=S_IFREG|0644, st_size=10993, ...}) = 0
+stat("/usr/local/lib/python3.12/types.py", {st_mode=S_IFREG|0644, st_size=10993, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/types.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/operator.py", {st_mode=S_IFREG|0644, st_size=10965, ...}) = 0
+stat("/usr/local/lib/python3.12/operator.py", {st_mode=S_IFREG|0644, st_size=10965, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/operator.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/functools.py", {st_mode=S_IFREG|0644, st_size=37881, ...}) = 0
+stat("/usr/local/lib/python3.12/functools.py", {st_mode=S_IFREG|0644, st_size=37881, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/functools.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/collections/__init__.py", {st_mode=S_IFREG|0644, st_size=52378, ...}) = 0
+stat("/usr/local/lib/python3.12/collections/__init__.py", {st_mode=S_IFREG|0644, st_size=52378, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/collections/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/keyword.py", {st_mode=S_IFREG|0644, st_size=1073, ...}) = 0
+stat("/usr/local/lib/python3.12/keyword.py", {st_mode=S_IFREG|0644, st_size=1073, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/keyword.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/reprlib.py", {st_mode=S_IFREG|0644, st_size=6569, ...}) = 0
+stat("/usr/local/lib/python3.12/reprlib.py", {st_mode=S_IFREG|0644, st_size=6569, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/reprlib.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/re/_compiler.py", {st_mode=S_IFREG|0644, st_size=26089, ...}) = 0
+stat("/usr/local/lib/python3.12/re/_compiler.py", {st_mode=S_IFREG|0644, st_size=26089, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/re/__pycache__/_compiler.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/re/_parser.py", {st_mode=S_IFREG|0644, st_size=41201, ...}) = 0
+stat("/usr/local/lib/python3.12/re/_parser.py", {st_mode=S_IFREG|0644, st_size=41201, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/re/__pycache__/_parser.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/re/_constants.py", {st_mode=S_IFREG|0644, st_size=5930, ...}) = 0
+stat("/usr/local/lib/python3.12/re/_constants.py", {st_mode=S_IFREG|0644, st_size=5930, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/re/__pycache__/_constants.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/re/_casefix.py", {st_mode=S_IFREG|0644, st_size=5444, ...}) = 0
+stat("/usr/local/lib/python3.12/re/_casefix.py", {st_mode=S_IFREG|0644, st_size=5444, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/re/__pycache__/_casefix.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/copyreg.py", {st_mode=S_IFREG|0644, st_size=7614, ...}) = 0
+stat("/usr/local/lib/python3.12/copyreg.py", {st_mode=S_IFREG|0644, st_size=7614, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/copyreg.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/contextlib.py", {st_mode=S_IFREG|0644, st_size=27637, ...}) = 0
+stat("/usr/local/lib/python3.12/contextlib.py", {st_mode=S_IFREG|0644, st_size=27637, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/contextlib.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/dis.py", {st_mode=S_IFREG|0644, st_size=30209, ...}) = 0
+stat("/usr/local/lib/python3.12/dis.py", {st_mode=S_IFREG|0644, st_size=30209, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/dis.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/opcode.py", {st_mode=S_IFREG|0644, st_size=13174, ...}) = 0
+stat("/usr/local/lib/python3.12/opcode.py", {st_mode=S_IFREG|0644, st_size=13174, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/opcode.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/collections/abc.py", {st_mode=S_IFREG|0644, st_size=119, ...}) = 0
+stat("/usr/local/lib/python3.12/collections/abc.py", {st_mode=S_IFREG|0644, st_size=119, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/collections/__pycache__/abc.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/importlib/__init__.py", {st_mode=S_IFREG|0644, st_size=4774, ...}) = 0
+stat("/usr/local/lib/python3.12/importlib/__init__.py", {st_mode=S_IFREG|0644, st_size=4774, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/importlib/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/warnings.py", {st_mode=S_IFREG|0644, st_size=21902, ...}) = 0
+stat("/usr/local/lib/python3.12/warnings.py", {st_mode=S_IFREG|0644, st_size=21902, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/warnings.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/importlib/machinery.py", {st_mode=S_IFREG|0644, st_size=880, ...}) = 0
+stat("/usr/local/lib/python3.12/importlib/machinery.py", {st_mode=S_IFREG|0644, st_size=880, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/importlib/__pycache__/machinery.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/linecache.py", {st_mode=S_IFREG|0644, st_size=5748, ...}) = 0
+stat("/usr/local/lib/python3.12/linecache.py", {st_mode=S_IFREG|0644, st_size=5748, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/linecache.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/tokenize.py", {st_mode=S_IFREG|0644, st_size=21214, ...}) = 0
+stat("/usr/local/lib/python3.12/tokenize.py", {st_mode=S_IFREG|0644, st_size=21214, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/tokenize.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/token.py", {st_mode=S_IFREG|0644, st_size=2479, ...}) = 0
+stat("/usr/local/lib/python3.12/token.py", {st_mode=S_IFREG|0644, st_size=2479, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/token.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/weakref.py", {st_mode=S_IFREG|0644, st_size=21513, ...}) = 0
+stat("/usr/local/lib/python3.12/weakref.py", {st_mode=S_IFREG|0644, st_size=21513, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/weakref.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/_weakrefset.py", {st_mode=S_IFREG|0644, st_size=5893, ...}) = 0
+stat("/usr/local/lib/python3.12/_weakrefset.py", {st_mode=S_IFREG|0644, st_size=5893, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/_weakrefset.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/__init__.py", {st_mode=S_IFREG|0644, st_size=364, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/__init__.py", {st_mode=S_IFREG|0644, st_size=364, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/__future__.py", {st_mode=S_IFREG|0644, st_size=5218, ...}) = 0
+stat("/usr/local/lib/python3.12/__future__.py", {st_mode=S_IFREG|0644, st_size=5218, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/__future__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/__about__.py", {st_mode=S_IFREG|0644, st_size=445, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/__about__.py", {st_mode=S_IFREG|0644, st_size=445, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/__pycache__/__about__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/__init__.py", {st_mode=S_IFREG|0644, st_size=455, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/__init__.py", {st_mode=S_IFREG|0644, st_size=455, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/__init__.py", {st_mode=S_IFREG|0644, st_size=180, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/__init__.py", {st_mode=S_IFREG|0644, st_size=180, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py", {st_mode=S_IFREG|0644, st_size=680, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py", {st_mode=S_IFREG|0644, st_size=680, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py", {st_mode=S_IFREG|0644, st_size=1495, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py", {st_mode=S_IFREG|0644, st_size=1495, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/__pycache__/_cipheralgorithm.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/utils.py", {st_mode=S_IFREG|0644, st_size=3925, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/utils.py", {st_mode=S_IFREG|0644, st_size=3925, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/__pycache__/utils.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/typing.py", {st_mode=S_IFREG|0644, st_size=118719, ...}) = 0
+stat("/usr/local/lib/python3.12/typing.py", {st_mode=S_IFREG|0644, st_size=118719, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/typing.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/base.py", {st_mode=S_IFREG|0644, st_size=4211, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/base.py", {st_mode=S_IFREG|0644, st_size=4211, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/base.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/bindings/__init__.py", {st_mode=S_IFREG|0644, st_size=180, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/bindings/__init__.py", {st_mode=S_IFREG|0644, st_size=180, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/bindings/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/bindings/_rust/__init__.py", 0x7fff43a0d550) = -1 ENOENT (No such file or directory)
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/bindings/_rust/__init__.pyc", 0x7fff43a0d550) = -1 ENOENT (No such file or directory)
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/modes.py", {st_mode=S_IFREG|0644, st_size=8192, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/modes.py", {st_mode=S_IFREG|0644, st_size=8192, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/modes.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/exceptions.py", {st_mode=S_IFREG|0644, st_size=1087, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/exceptions.py", {st_mode=S_IFREG|0644, st_size=1087, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/__pycache__/exceptions.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py", {st_mode=S_IFREG|0644, st_size=4223, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py", {st_mode=S_IFREG|0644, st_size=4223, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/algorithms.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/__init__.py", {st_mode=S_IFREG|0644, st_size=216, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/__init__.py", {st_mode=S_IFREG|0644, st_size=216, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/__init__.py", {st_mode=S_IFREG|0644, st_size=216, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/__init__.py", {st_mode=S_IFREG|0644, st_size=216, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/algorithms.py", {st_mode=S_IFREG|0644, st_size=2520, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/algorithms.py", {st_mode=S_IFREG|0644, st_size=2520, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/decrepit/ciphers/__pycache__/algorithms.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/backends/__init__.py", {st_mode=S_IFREG|0644, st_size=361, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/backends/__init__.py", {st_mode=S_IFREG|0644, st_size=361, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/backends/__pycache__/__init__.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/padding.py", {st_mode=S_IFREG|0644, st_size=5518, ...}) = 0
+stat("/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/padding.py", {st_mode=S_IFREG|0644, st_size=5518, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/site-packages/cryptography/hazmat/primitives/__pycache__/padding.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/base64.py", {st_mode=S_IFREG|0755, st_size=20635, ...}) = 0
+stat("/usr/local/lib/python3.12/base64.py", {st_mode=S_IFREG|0755, st_size=20635, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/base64.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/struct.py", {st_mode=S_IFREG|0644, st_size=257, ...}) = 0
+stat("/usr/local/lib/python3.12/struct.py", {st_mode=S_IFREG|0644, st_size=257, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/struct.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
+stat("/usr/local/lib/python3.12/hashlib.py", {st_mode=S_IFREG|0644, st_size=9349, ...}) = 0
+stat("/usr/local/lib/python3.12/hashlib.py", {st_mode=S_IFREG|0644, st_size=9349, ...}) = 0
+openat(AT_FDCWD, "/usr/local/lib/python3.12/__pycache__/hashlib.cpython-312.pyc", O_RDONLY|O_CLOEXEC) = 3
